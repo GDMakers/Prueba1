@@ -1,7 +1,25 @@
-# Prueba1
-1. Tarea 1
-1. Tarea 2
+![Título IES ALCÁNTARA](/images/LearnToTeach.png)
 
-Creado un nuevo branch.
+## [IES Alcántara web]
 
-Autor: Ginés Ruiz Bueno
+[IES Alcántara web]: http://www.murciaeduca.es/iesalcantara/sitio/
+
+# Project Team:
+
+> ![Ginés Ruiz Bueno](/images/GRBGD.png)
+
+
+> Name: Ginés Ruiz Bueno
+> * Twitter: @GRuizBueno
+> * Lover of technology and the use of new learning methodologies.
+
+
+> 
+
+> Name: 
+> * Twitter: 
+> * .
+
+## [Access to DGReport]
+
+[Access to DGReport]: https://github.com/Robotics4Rookies/iesalcantara_20_21/blob/main/DGSpecialist/DGReport.md
